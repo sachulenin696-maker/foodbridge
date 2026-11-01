@@ -7,7 +7,7 @@
 🌍 **Special Recognition — Social Impact**  
 ⏱️ **24-Hour Hackathon Project**
 
-🔗 **Explore Our Project Website:**file:///C:/Users/HP/OneDrive/Desktop/FoodBridge.html
+🔗 **Explore Our Project Website:file:///C:/Users/HP/OneDrive/Desktop/FoodBridge.html
 
 📂 **GitHub Repository:** https://github.com/sachulenin696-maker/foodbridge
 
