@@ -7,8 +7,7 @@
 🌍 **Special Recognition — Social Impact**  
 ⏱️ **24-Hour Hackathon Project**
 
-🔗 **Explore Our Project Website: https://fascinating-souffle-32c932.netlify.app/
-
+🔗 **Explore Our Project Website:https://fascinating-souffle-32c932.netlify.app/
 📂 **GitHub Repository:** https://github.com/sachulenin696-maker/foodbridge
 
 ---
@@ -98,7 +97,7 @@ To help surplus food reach people who need it, reduce avoidable food waste, and 
 
 ## 🔗 Explore FoodBridge
 
-- 🌐 **Project Website:**https://chatgpt.com/library/share/libfile_c085416cd434819192356db895883908?account_id=personal
+- 🌐 **Project Website:**https://fascinating-souffle-32c932.netlify.app/
 - 💻 **Source Code and Project Updates:** https://github.com/sachulenin696-maker/foodbridge
 
 *Our Android application is under development. Follow this repository to track our progress.*
